@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "323686903384",
+    "project_id": "smsbroadcastsendingtofirestore",
+    "storage_bucket": "smsbroadcastsendingtofirestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323686903384:android:b18b7d806dbaa1240da42d",
+        "android_client_info": {
+          "package_name": "com.felixtechlabs.jalgaonKeliAdmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323686903384-d7g628f71bge13hdarnlkqg69ajtpq6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA16D8fl_FPFmhXO9maK3P6rX3mkXYwL1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323686903384-d7g628f71bge13hdarnlkqg69ajtpq6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323686903384:android:3d1834904560175b0da42d",
+        "android_client_info": {
+          "package_name": "com.stubborn.basicsqlapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323686903384-d7g628f71bge13hdarnlkqg69ajtpq6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA16D8fl_FPFmhXO9maK3P6rX3mkXYwL1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323686903384-d7g628f71bge13hdarnlkqg69ajtpq6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323686903384:android:e84bea4caec4a7f10da42d",
+        "android_client_info": {
+          "package_name": "com.stubborn.firestoredatabsefrombrodacastreceiver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323686903384-d7g628f71bge13hdarnlkqg69ajtpq6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA16D8fl_FPFmhXO9maK3P6rX3mkXYwL1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323686903384-d7g628f71bge13hdarnlkqg69ajtpq6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323686903384:android:06536e1422e11b0c0da42d",
+        "android_client_info": {
+          "package_name": "com.stubborn.smsreadbybroadcastsendingtofirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323686903384-d7g628f71bge13hdarnlkqg69ajtpq6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA16D8fl_FPFmhXO9maK3P6rX3mkXYwL1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323686903384-d7g628f71bge13hdarnlkqg69ajtpq6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

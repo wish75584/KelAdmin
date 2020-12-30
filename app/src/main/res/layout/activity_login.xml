@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Features.LoginActivity"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:layout_margin="20dp">
+
+    <TextView
+        android:id="@+id/textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LOGIN"
+        android:textSize="25dp"
+        android:gravity="center" />
+
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="135dp"
+        android:layout_height="2dp"
+        android:layout_below="@id/textview"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="45dp"
+        android:background="@android:color/black"
+        android:layout_centerHorizontal="true"/>
+
+    <EditText
+        android:id="@+id/userName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="User Name"
+        android:layout_below="@+id/view"
+        android:padding="15dp"
+        android:fontFamily="sans-serif-medium" />
+
+    <EditText
+        android:id="@+id/userPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="User Password"
+        android:padding="15dp"
+        android:layout_marginTop="15dp"
+        android:layout_below="@+id/userName"
+        android:fontFamily="sans-serif-medium" />
+
+    <Button
+        android:id="@+id/btnSubmit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:padding="10dp"
+        android:layout_marginTop="15dp"
+        android:background="@android:color/transparent"
+        android:layout_below="@+id/userPassword"
+        android:fontFamily="serif" />
+
+
+</RelativeLayout>

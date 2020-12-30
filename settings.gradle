@@ -1,0 +1,2 @@
+rootProject.name='Jalgaon Keli Admin'
+include ':app'
